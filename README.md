@@ -1,0 +1,2 @@
+# task
+For smart method
